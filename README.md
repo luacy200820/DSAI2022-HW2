@@ -37,6 +37,8 @@ testing.csv
 | K > 90    | -1     | 
 | D<10    | 1     |    
 
+## 圖表示意圖
+![image](https://user-images.githubusercontent.com/65431754/165274917-bd224e8b-719f-422a-9ec8-1b1bb32907e3.png)
 
 ## 結果  
 
