@@ -4,6 +4,8 @@
 training.csv  
 testing.csv  
 ```  
+## 執行  
+`python app.py --training=training.csv --testing=testing.csv --output=output.csv`
   
 ## 前處理  
 由於沒有明確時間，所以就直接產生假日期，不分平日假日。  
@@ -35,8 +37,6 @@ testing.csv
 | K > 90    | -1     | 
 | D<10    | 1     |    
 
-## 執行  
-`python app.py --training=training.csv --testing=testing.csv --output==output.csv`
 
 ## 結果  
 
@@ -46,5 +46,5 @@ testing.csv
 | tesla    | 92     |
 | amc   | 5.87     | 
 | tiwtter    | 4.31     |
-| unkown | 4.95     | 
+| unknown | 4.95     | 
    
